@@ -1,0 +1,8 @@
+2022-03-28 10:41:30,095 Find_element.py--> Get_element 20: INFO ----->Error details:no such element: Unable to locate element: {"method":"xpath","selector":"//button[@data-bb-handler='cancel']"}
+  (Session info: chrome=99.0.4844.82)
+2022-03-28 10:41:30,095 Find_element.py--> Get_element 20: INFO ----->Error details:no such element: Unable to locate element: {"method":"xpath","selector":"//button[@data-bb-handler='cancel']"}
+  (Session info: chrome=99.0.4844.82)
+2022-03-28 10:44:12,359 Find_element.py--> Get_element 20: INFO ----->Error details:no such element: Unable to locate element: {"method":"xpath","selector":"//button[@data-bb-handler='cancel']"}
+  (Session info: chrome=99.0.4844.82)
+2022-03-28 10:44:12,359 Find_element.py--> Get_element 20: INFO ----->Error details:no such element: Unable to locate element: {"method":"xpath","selector":"//button[@data-bb-handler='cancel']"}
+  (Session info: chrome=99.0.4844.82)

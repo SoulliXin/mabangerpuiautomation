@@ -1,0 +1,26 @@
+2022-03-23 15:30:00,787 HandleOperation.py--> sendAcount 20: INFO ----->输入用户名mabangtest
+2022-03-23 15:30:01,880 HandleOperation.py--> sendPaswd 20: INFO ----->输入密码mabangit
+2022-03-23 16:04:03,134 Find_element.py--> Get_element 20: INFO ----->Error details:no such element: Unable to locate element: {"method":"xpath","selector":"//button[@data-bb-handler='cancel']"}
+  (Session info: chrome=99.0.4844.74)
+2022-03-23 16:04:03,134 Find_element.py--> Get_element 20: INFO ----->Error details:no such element: Unable to locate element: {"method":"xpath","selector":"//button[@data-bb-handler='cancel']"}
+  (Session info: chrome=99.0.4844.74)
+2022-03-23 16:04:10,851 Find_element.py--> Get_element 20: INFO ----->Error details:no such element: Unable to locate element: {"method":"xpath","selector":"//i[text()='阿里巴巴国际站刊']"}
+  (Session info: chrome=99.0.4844.74)
+2022-03-23 16:04:10,851 Find_element.py--> Get_element 20: INFO ----->Error details:no such element: Unable to locate element: {"method":"xpath","selector":"//i[text()='阿里巴巴国际站刊']"}
+  (Session info: chrome=99.0.4844.74)
+2022-03-23 16:08:49,074 Find_element.py--> Get_element 20: INFO ----->Error details:no such element: Unable to locate element: {"method":"xpath","selector":"//button[@data-bb-handler='cancel']"}
+  (Session info: chrome=99.0.4844.74)
+2022-03-23 16:08:49,074 Find_element.py--> Get_element 20: INFO ----->Error details:no such element: Unable to locate element: {"method":"xpath","selector":"//button[@data-bb-handler='cancel']"}
+  (Session info: chrome=99.0.4844.74)
+2022-03-23 16:09:04,379 Find_element.py--> Get_element 20: INFO ----->Error details:no such element: Unable to locate element: {"method":"xpath","selector":"//li[@class='el-select-dropdown__item selected hover']"}
+  (Session info: chrome=99.0.4844.74)
+2022-03-23 16:09:04,379 Find_element.py--> Get_element 20: INFO ----->Error details:no such element: Unable to locate element: {"method":"xpath","selector":"//li[@class='el-select-dropdown__item selected hover']"}
+  (Session info: chrome=99.0.4844.74)
+2022-03-23 16:17:31,950 Find_element.py--> Get_element 20: INFO ----->Error details:no such element: Unable to locate element: {"method":"xpath","selector":"//button[@data-bb-handler='cancel']"}
+  (Session info: chrome=99.0.4844.74)
+2022-03-23 16:17:31,950 Find_element.py--> Get_element 20: INFO ----->Error details:no such element: Unable to locate element: {"method":"xpath","selector":"//button[@data-bb-handler='cancel']"}
+  (Session info: chrome=99.0.4844.74)
+2022-03-23 16:17:47,620 Find_element.py--> Get_element 20: INFO ----->Error details:no such element: Unable to locate element: {"method":"xpath","selector":"//li[@class='el-select-dropdown__item selected hover']"}
+  (Session info: chrome=99.0.4844.74)
+2022-03-23 16:17:47,620 Find_element.py--> Get_element 20: INFO ----->Error details:no such element: Unable to locate element: {"method":"xpath","selector":"//li[@class='el-select-dropdown__item selected hover']"}
+  (Session info: chrome=99.0.4844.74)
